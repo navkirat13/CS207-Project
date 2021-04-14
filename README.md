@@ -33,5 +33,9 @@ a new one.
 
 After uploading the code to arduino it calculates the angle and the distance between the objects in cm and print it to the console. The LED remains OFF until a object 
 is within 15cm of the sensors range and the speaker turns ON when it is within 10cm of range.
+
+# Team
+Navkiratpaul Singh
+
 # Credits
 Tony ZHANG https://create.arduino.cc/projecthub/faweiz/arduino-radar-69b8fe
